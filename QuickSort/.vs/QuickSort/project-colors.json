@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "96f80a26-c953-4973-a753-3a20ab7504f3": {
+      "ProjectGuid": "96f80a26-c953-4973-a753-3a20ab7504f3",
+      "DisplayName": "QuickSort",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

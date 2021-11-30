@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "89402c05-7a53-452f-ada9-1f71c26a337d": {
+      "ProjectGuid": "89402c05-7a53-452f-ada9-1f71c26a337d",
+      "DisplayName": "triangulo",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

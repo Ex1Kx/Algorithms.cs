@@ -1,0 +1,15 @@
+C:\Users\ekigo\source\repos\negativo\negativo\bin\Debug\net6.0\negativo.exe
+C:\Users\ekigo\source\repos\negativo\negativo\bin\Debug\net6.0\negativo.deps.json
+C:\Users\ekigo\source\repos\negativo\negativo\bin\Debug\net6.0\negativo.runtimeconfig.json
+C:\Users\ekigo\source\repos\negativo\negativo\bin\Debug\net6.0\negativo.dll
+C:\Users\ekigo\source\repos\negativo\negativo\bin\Debug\net6.0\ref\negativo.dll
+C:\Users\ekigo\source\repos\negativo\negativo\bin\Debug\net6.0\negativo.pdb
+C:\Users\ekigo\source\repos\negativo\negativo\obj\Debug\net6.0\negativo.csproj.AssemblyReference.cache
+C:\Users\ekigo\source\repos\negativo\negativo\obj\Debug\net6.0\negativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekigo\source\repos\negativo\negativo\obj\Debug\net6.0\negativo.AssemblyInfoInputs.cache
+C:\Users\ekigo\source\repos\negativo\negativo\obj\Debug\net6.0\negativo.AssemblyInfo.cs
+C:\Users\ekigo\source\repos\negativo\negativo\obj\Debug\net6.0\negativo.csproj.CoreCompileInputs.cache
+C:\Users\ekigo\source\repos\negativo\negativo\obj\Debug\net6.0\negativo.dll
+C:\Users\ekigo\source\repos\negativo\negativo\obj\Debug\net6.0\ref\negativo.dll
+C:\Users\ekigo\source\repos\negativo\negativo\obj\Debug\net6.0\negativo.pdb
+C:\Users\ekigo\source\repos\negativo\negativo\obj\Debug\net6.0\negativo.genruntimeconfig.cache

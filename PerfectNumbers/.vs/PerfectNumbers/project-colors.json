@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0c48157a-f133-4dc6-9ec3-71850c36589d": {
+      "ProjectGuid": "0c48157a-f133-4dc6-9ec3-71850c36589d",
+      "DisplayName": "PerfectNumbers",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
